@@ -13,14 +13,14 @@ Per tal d'elaborar aquesta pàgina vaig establir uns objectius que venien donats
 ## **La temàtica**
 La proposta de la temàtica va ser lliure, per tant vaig escollir un tema que m'agrada moltíssim i és **el món del cinema.** És un tema actual, que cada dia hi apareix informació nova per actualitzar la pàgina web, amb continguts veridics i interessants.
 
-##**Les dades** 
+## **Les dades** 
 Per tal d'obtenir les dades s'han fet servir diferents tipus de fonts principals:
 * Pàgines web relacionades amb el cinema com poden ser [IMDB](https://www.imdb.com/), [History of Cinema](https://www.instagram.com/historyofcinema/) o [Cinéfilos](https://cinefilosoficial.com/)
 * Per saber els noms dels Premis o Festivals [Film Affinity](https://www.filmaffinity.com/es/all_awards.php)
 * Google imatges per trobar les imatges incloses, totes provinents de diferents fonts.
 * La pàgina web oficial, [The Academy](https://oscars.org/)
 
-## ** Estructura de la Web i Metodologia per a la seva elaboració **
+## **Estructura de la Web i Metodologia per a la seva elaboració**
 A l'hora de crear la pàgina web es va seguir la següent metodologia:
 
 0._Passos previs_: Búsqueda de la temàtica, elaborar un layout en brut per a l'roganització de les pàgines i quantes es voldran crear i creació del logo per a la capçelera de la pàgina i icona de la pestanya.
@@ -39,10 +39,10 @@ Mentres es creava la pàgina principal, es va elaborar de forma paral·la l'arxi
 La pàgina web consta de diferents apartats, en *primer lloc* trobem **l'index** on es fa una introducció a la temàtica que es parlarà en la pàgina i sobre el món del cinema. Després trobem la zona de localització des de la qual s'escriu la pàgina.
 En tercer lloc tenim **el mapa de *Award places*** on hi ha marcats els premis que es donen i els festivals de cinema que es fan en cada país. Després tenim els **últims apartats que són informatius** , en el blog es parlen d'últimes notícies sobre el cinema i les últimes novetats, en la galeria tenim una col·lecció d'algunes de les **imatges més icòniques de la història**, l'ordre de les pel·lícules millor puntuades i finalment un apartat amb informació pròpia i per contactar.
 
-## ** Metodologia Web Responsive **
+## **Metodologia Web Responsive**
 Per tal de que la web sigui responsive es va afegir a la capcelera del llenguatge la següent etiqueta: <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-## ** Metodologia per elaborar la cartografia**
+## **Metodologia per elaborar la cartografia**
 Per elaborar la cartografia es van seguir els següents passos:
 1. Afegir un ampa base amb el google search.
 2. Crear una capa vectorial de punts i digitalitzar els premis que donen i els festivals que es realitzen allí en el pròpi país que es duuen a terme.
@@ -52,9 +52,9 @@ Per elaborar la cartografia es van seguir els següents passos:
 
 *Totes aquestes tasques s'han elaborat a partir del programa QGIS i amb el complement de QGIS2WEB. A l'hora de penjar-ho al repositori, l'únic canvi que s'ha realitzat ha estat la substitució del enllaç local per el repositori que consta amb el nom de la carpeta/nom del arxiu.html*
 
-## Conclusons del treball, dificultats i fets a millorar de la pàgina web
+## **Conclusons del treball, dificultats i fets a millorar de la pàgina web**
 El fet de crear una pàgina web des de zero ha estat un repte, ja que penso que és una cosa complicada ja que abasteix molts de temes, llenguatges, combinacions i conceptes però al final ha estat molt interessant entendre una part. 
-Es podrien millorar moltes coses de la pàgina web, com ara el tema responsive en més seccions de la web, millorar el disseny amb un de més modern i interactiu així com també actualitzar el contingut.
+Es podrien millorar moltes coses de la pàgina web, com ara el tema responsive en més seccions de la web, millorar el disseny amb un de més modern i interactiu així com també actualitzar el contingut amb notícies més actuals.
 
 
 
