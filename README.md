@@ -11,7 +11,7 @@ Per tal d'elaborar aquesta pàgina vaig establir uns objectius que venien donats
         5. Crear una pàgina web que sigui **_responsive_**
         
 ## **La temàtica**
-La proposta de la temàtica va ser lliure, per tant vaig escollir un tema que m'agrada moltíssim i és **el món del cinema.** És un tema actual, que cada dia hi apareix informació nova per actualitzar la pàgina web, amb continguts veridics i interessants.
+La proposta de la temàtica va ser lliure, per tant vaig escollir un tema que m'agrada moltíssim des de ben petita i és **el món del cinema.** És un tema actual, que cada dia hi apareix informació nova que permetria actualitzar la pàgina web, amb continguts veridics i interessants. A més a més el fet de saber sobre cinema implica conéixer tot un món de noms, conceptes sobre la cinematografia, pel·Lícules que han marcat la història i permet tenir una ment sempre oberta per sobrepassar barreres ja siguin culturals com també de llenguatge.
 
 ## **Les dades** 
 Per tal d'obtenir les dades s'han fet servir diferents tipus de fonts principals:
