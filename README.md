@@ -1,5 +1,5 @@
 # **_J'adore le cinéma: Things-About-Cinema_**
-##Aquesta ha estat la meva primera pàgina web creada des de zero mitjançant el llenguatge HTML i CSS.
+## Aquesta ha estat la meva primera pàgina web creada des de zero mitjançant el llenguatge HTML i CSS.
 #### *Si vols veure el resultat final fes [click aqui]()*
 
 ## **Els objectius**
