@@ -1,8 +1,8 @@
 # **_J'adore le cinéma: Things-About-Cinema_**
-## Aquesta ha estat la meva primera pàgina web creada des de zero mitjançant el llenguatge HTML i CSS.
+##Aquesta ha estat la meva primera pàgina web creada des de zero mitjançant el llenguatge HTML i CSS.
 #### *Si vols veure el resultat final fes [click aqui]()*
 
-##**Els objectius**
+## **Els objectius**
 Per tal d'elaborar aquesta pàgina vaig establir uns objectius que venien donats per els professors que dirigien l'assignatura. Els obejctius van ser els següents:
         1. Aprendre a fer servir els **diferents llegnuatges de programació**
         2. Entendre el funcionament del **_GIT, GITHUB i GITcola_**
@@ -10,7 +10,7 @@ Per tal d'elaborar aquesta pàgina vaig establir uns objectius que venien donats
         4. Aprendre a introduir una **cartografia elaborada amb QGIS dintre d'una pàgina web**
         5. Crear una pàgina web que sigui **_responsive_**
         
-##**La temàtica**
+## **La temàtica**
 La proposta de la temàtica va ser lliure, per tant vaig escollir un tema que m'agrada moltíssim i és **el món del cinema.** És un tema actual, que cada dia hi apareix informació nova per actualitzar la pàgina web, amb continguts veridics i interessants.
 
 ##**Les dades** 
