@@ -23,19 +23,19 @@ Per tal d'obtenir les dades s'han fet servir diferents tipus de fonts principals
 ## **Estructura de la Web i Metodologia per a la seva elaboració**
 A l'hora de crear la pàgina web es va seguir la següent metodologia:
 
-0._Passos previs_: Búsqueda de la temàtica, elaborar un layout en brut per a l'roganització de les pàgines i quantes es voldran crear i creació del logo per a la capçelera de la pàgina i icona de la pestanya.
+0.**_Passos previs_**: Búsqueda de la temàtica, elaborar un layout en brut per a l'roganització de les pàgines i quantes es voldran crear i creació del logo per a la capçelera de la pàgina i icona de la pestanya.
 
-1._Creació de la pàgina principal_:
+1.**_Creació de la pàgina principal_**:
   1. Creació del document HTML
   2. Elaboració del Head
   3. Inserció deñ Body amb el Banner, on hi ha el logo i la barra de navegació on es poden accedir als altres apartats.
   4. Creació de dues columnes, la de l'esquerra amb la informació principal i la de la dreta amb iamatge i frases celebres d'actrius importants.
   5. Elaboració del footer, comú a totes les pàgines.
   
-2._Creació del CSS_: 
+2.**_Creació del CSS_**: 
 Mentres es creava la pàgina principal, es va elaborar de forma paral·la l'arxiu CSS elq ual conté tot l'estil que es va voler donar a la pàgina web. Aqui trobem les característiques donades a les pàgines, la mida del text, la forma, les capceleres, els colors...
 
-3._Apartats de la pàgina web, elaborats seguint més o menys amb la mateixa dinàmica_:
+3.**_Apartats de la pàgina web, elaborats seguint més o menys amb la mateixa dinàmica_**:
 La pàgina web consta de diferents apartats, en *primer lloc* trobem **l'index** on es fa una introducció a la temàtica que es parlarà en la pàgina i sobre el món del cinema. Després trobem la zona de localització des de la qual s'escriu la pàgina.
 En tercer lloc tenim **el mapa de *Award places*** on hi ha marcats els premis que es donen i els festivals de cinema que es fan en cada país. Després tenim els **últims apartats que són informatius** , en el blog es parlen d'últimes notícies sobre el cinema i les últimes novetats, en la galeria tenim una col·lecció d'algunes de les **imatges més icòniques de la història**, l'ordre de les pel·lícules millor puntuades i finalment un apartat amb informació pròpia i per contactar.
 
