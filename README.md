@@ -4,11 +4,12 @@
 
 ## **Els objectius**
 Per tal d'elaborar aquesta pàgina vaig establir uns objectius que venien donats per els professors que dirigien l'assignatura.Els obejctius van ser els següents:
-        1.Aprendre a fer servir els **diferents llegnuatges de programació**
-        2.Entendre el funcionament del **_GIT, GITHUB i GITcola_**
-        3.Saber elaborar cartografia mitjançant **LeafLet**
-        4.Aprendre a introduir una **cartografia elaborada amb QGIS dintre d'una pàgina web**
-        5.Crear una pàgina web que sigui **_responsive_**
+
+        1. Aprendre a fer servir els **diferents llegnuatges de programació**
+        2. Entendre el funcionament del **_GIT, GITHUB i GITcola_**
+        3. Saber elaborar cartografia mitjançant **LeafLet**
+        4. Aprendre a introduir una **cartografia elaborada amb QGIS dintre d'una pàgina web**
+        5. Crear una pàgina web que sigui **_responsive_**
         
 ## **La temàtica**
 La proposta de la temàtica va ser lliure, per tant vaig escollir un tema que m'agrada moltíssim des de ben petita i és **el món del cinema.** És un tema actual, que cada dia hi apareix informació nova que permetria actualitzar la pàgina web, amb continguts veridics i interessants. A més a més el fet de saber sobre cinema implica conéixer tot un món de noms, conceptes sobre la cinematografia, pel·Lícules que han marcat la història i permet tenir una ment sempre oberta per sobrepassar barreres ja siguin culturals com també de llenguatge.
@@ -44,11 +45,12 @@ Per tal de que la web sigui responsive es va afegir a la capcelera del llenguatg
 
 ## **Metodologia per elaborar la cartografia**
 Per elaborar la cartografia es van seguir els següents passos:
-        1.Afegir un ampa base amb el google search.
-        2.Crear una capa vectorial de punts i digitalitzar els premis que donen i els festivals que es realitzen allí en el pròpi país que es duuen a terme.
-        3.Modificació de la taula d'atributs mitjançant el llenguatge html i que apareguin les imatges en el Popup.
-        4.Es va donar una perosnalització per a representar els punts.
-        5.Mitjançant el **_qgis2Web_**, es va escollir allò que es volia mostrar al Popup, una llegenda desplegable i també l'elecció d'ajuntar els punts que                   apareixen per país per a una correcta visualització.
+
+        1. Afegir un ampa base amb el google search.
+        2. Crear una capa vectorial de punts i digitalitzar els premis que donen i els festivals que es realitzen allí en el pròpi país que es duuen a terme.
+        3. Modificació de la taula d'atributs mitjançant el llenguatge html i que apareguin les imatges en el Popup.
+        4. Es va donar una perosnalització per a representar els punts.
+        5. Mitjançant el **_qgis2Web_**, es va escollir allò que es volia mostrar al Popup, una llegenda desplegable i també l'elecció d'ajuntar els punts que                   apareixen per país per a una correcta visualització.
 
 *Totes aquestes tasques s'han elaborat a partir del programa QGIS i amb el complement de QGIS2WEB. A l'hora de penjar-ho al repositori, l'únic canvi que s'ha realitzat ha estat la substitució del enllaç local per el repositori que consta amb el nom de la carpeta/nom del arxiu.html*
 
