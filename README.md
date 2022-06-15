@@ -1,6 +1,6 @@
 # **_J'adore le cinéma: Things-About-Cinema_**
 ## Aquesta ha estat la meva primera pàgina web creada des de zero mitjançant el llenguatge HTML i CSS i també utilitzant Markdown.
-#### *Si vols veure el resultat final fes [click aqui]()*
+#### *Si vols veure el resultat final fes [click aqui](https://nerealq.github.io/Things-About-Cinema/)*
 
 ## **Els objectius**
 Per tal d'elaborar aquesta pàgina vaig establir uns objectius que venien donats per els professors que dirigien l'assignatura. Els obejctius van ser els següents:
